@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+    <fo:layout-master-set>
+        <fo:simple-page-master
+                master-name="invitacion-boda" page-height="9cm" page-width="20cm" margin-top="1cm" margin-bottom="1cm"
+                background-color="#FFF3E0">
+            <fo:region-body />
+            <fo:region-before extent="0.5cm" />
+            <fo:region-after extent="0.5cm" />
+        </fo:simple-page-master>
+    </fo:layout-master-set>
+    <fo:page-sequence master-reference="invitacion-boda">
+        <fo:flow flow-name="xsl-region-body">
+            <fo:block font-size="16pt" text-align="center" font-weight="700"> Julieta y Romeo </fo:block>
+            <fo:block font-size="10pt" text-align="center" color="#888888" space-before="0.5cm"> Nos hace mucha ilusión compartir con vosotros este día tan especial en el que uniremos nuestras vidas. </fo:block>
+            <fo:block font-size="12pt" text-align="center" color="#888888" space-before="0.5cm"> Sábado, 14 de febrero de 2025 a las 18:00 horas. </fo:block>
+            <fo:block font-size="10pt" text-align="center" color="#888888" space-before="0.5cm"> Iglesia de San Jorge, Verona. </fo:block>
+            <fo:block font-size="10pt" text-align="center" color="#888888" space-before="0.5cm"> Salón de Banquetes Capuleto, Verona. </fo:block>
+            <fo:block font-size="10pt" text-align="center" color="#888888" space-before="0.5cm"> +35 123 456 789 </fo:block>
+        </fo:flow>
+    </fo:page-sequence>
+</fo:root>
