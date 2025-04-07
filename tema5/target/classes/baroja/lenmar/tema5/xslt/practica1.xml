@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="practica1.xsl" type="text/xsl"?>
+<peliculas>
+    <pelicula>
+        <titulo>El Padrino</titulo>
+        <argumento>La historia de la familia Corleone y su ascenso al poder en la mafia.</argumento>
+    </pelicula>
+    <pelicula>
+        <titulo>Cadena Perpetua</titulo>
+        <argumento>Un hombre inocente es condenado a cadena perpetua y lucha por sobrevivir en prisión.</argumento>
+    </pelicula>
+    <pelicula>
+        <titulo>El Club de la Lucha</titulo>
+        <argumento>Un oficinista insatisfecho y un fabricante de jabones forman un club de lucha clandestino.</argumento>
+    </pelicula>
+</peliculas>

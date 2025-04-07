@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="actividad6-3.xsl" type="text/xsl"?>
+<curriculum>
+    <nombre>Arantxa Reinoso Garayalde</nombre>
+    <telefono>+34 692941119</telefono>
+    <formacion-academica>
+        <formacion>
+            <titulo-curso>Grado en traducción e intepretación</titulo-curso>
+            <centro>Universidad Complutense de Madrid</centro>
+            <anio-final>2014</anio-final>
+        </formacion>
+        <formacion>
+            <titulo-curso>Master dirección de restaurantes</titulo-curso>
+            <centro>GastroUni</centro>
+            <anio-final>2019</anio-final>
+        </formacion>
+    </formacion-academica>
+    <experiencia-profesional>
+        <experiencia>
+            <puesto>Jefe de Equipo de Call Center</puesto>
+            <empresa>CLBS</empresa>
+            <anio-inicio>2020</anio-inicio>
+            <anio-final>2024</anio-final>
+        </experiencia>
+        <experiencia>
+            <puesto>Autónoma</puesto>
+            <empresa>Voom Meals</empresa>
+            <anio-inicio>2019</anio-inicio>
+            <anio-final>2020</anio-final>
+        </experiencia>
+    </experiencia-profesional>
+</curriculum>

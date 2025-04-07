@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="actividad6-2.xsl" type="text/xsl"?>
+<receta nombre="Pad Thai">
+    <ingrediente nombre="Fideos de arroz" />
+    <ingrediente nombre="Tofu" />
+    <ingrediente nombre="Gambas" />
+    <ingrediente nombre="Brotes de soja" />
+    <ingrediente nombre="Salsa de pescado" />
+    <ingrediente nombre="Azúcar de palma" />
+    <ingrediente nombre="Aceite vegetal" />
+    <ingrediente nombre="Huevo" />
+    <ingrediente nombre="Tamarindo" />
+</receta>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad>
+        <nombre>Madrid</nombre>
+        <habitantes>3.500.000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Jaén</nombre>
+        <habitantes>112.000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Londres</nombre>
+        <habitantes>9.000.000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Malta</nombre>
+        <habitantes>35.900</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Chiang Mai, Tailandia</nombre>
+        <habitantes>800.000</habitantes>
+    </ciudad>
+</ciudades>
