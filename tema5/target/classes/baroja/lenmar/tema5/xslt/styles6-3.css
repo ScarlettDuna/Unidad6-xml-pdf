@@ -8,7 +8,6 @@ body {
     min-height: 100vh;
     background-color: #f4f4f4;
 }
-
 div.container {
     background-color: #fff;
     padding: 20px;
@@ -18,32 +17,25 @@ div.container {
     width: 80%;
     max-width: 960px;
 }
-
 h2,
 h3 {
     text-align: center;
     color: #333;
     margin-bottom: 15px;
 }
-
-ul,
-ol {
+ul, ol {
     list-style-type: none;
     padding: 10pt;
 }
-
 li {
     margin-bottom: 10px;
 }
-
 li ul {
     margin-left: 20px;
 }
-
 li ul li {
     margin-bottom: 5px;
 }
-
 p {
     text-align: center;
     color: #555;

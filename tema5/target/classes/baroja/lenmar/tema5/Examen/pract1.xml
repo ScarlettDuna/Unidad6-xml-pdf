@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='ISO-8859-15'?>
+<?xml-stylesheet href="pract1.xsl" type="text/xsl"?>
+<root xmlns:xsd="https://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" id="28079" version="1.0"
+    xsi:noNamespaceSchemaLocation="https://www.aemet.es/xsd/localidades.xsd">
+    <nombre>Madrid</nombre>
+    <provincia>Madrid</provincia>
+    <prediccion>
+        <dia fecha="2025-04-07">
+            <viento periodo="12-24">
+                <direccion>S</direccion>
+                <velocidad>5</velocidad>
+            </viento>
+            <racha_max periodo="12-24" />
+            <temperatura>
+                <maxima>21</maxima>
+                <minima>8</minima>
+            </temperatura>
+            <sens_termica>
+                <maxima>21</maxima>
+                <minima>7</minima>
+            </sens_termica>
+            <humedad_relativa>
+                <maxima>90</maxima>
+                <minima>40</minima>
+            </humedad_relativa>
+            <uv_max>6</uv_max>
+        </dia>
+    </prediccion>
+</root>
